@@ -34,9 +34,12 @@
     <strong>Technology stacks</strong>
      <ul>
        <li>HTML,CSS,Javascript ES6</li>
+     </ul>  
    <h3>🛠Backend</h3>
+     <ul>     
        <li>JSON</li>
        <li>Python</li>
+    </ul>  
    <h1>4.Movie information and Review sharing site</h1>
     <ul>
       <li>Rendering is being optimized.</li>
