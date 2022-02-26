@@ -13,7 +13,6 @@
     Project URL : "http://bookmoim.shop/"
     <br><br>
     <img src="https://user-images.githubusercontent.com/85553325/155828502-42541eb9-5866-4287-b9a8-a79e5f4945eb.png" width="800px" height="400px"
-    
     <h1>1.Movie Review Site</h1>
     <h3> 📌Movie Info and Review sharing site</h3>
     <p>Project Period : 2021. 08. 01~ 2021. 08. 30<p>
@@ -30,7 +29,6 @@
     <br> 🌱 <a href = "https://github.com/mingab91">조민갑</a>
     <br><p><strong>Movie Review Site Backend Developer</strong></p>
     <br> 🌱 All Developer joined it</a>  
-
      <h1>3.Technology stacks and packages</h1>
    <h3>🛠Frontend</h3>
     <strong>Technology stacks</strong>
