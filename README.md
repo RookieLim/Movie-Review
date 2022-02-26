@@ -25,20 +25,19 @@
    <br> ✔️ We provide feedback on the code through video meeting.
     <br><br>
     <p><strong>Moive Review Site Frontend Developer</strong></p>
-    <br> 🌱 <a href = "https://github.com/RookieLim">임재성</a>  
+    🌱 <a href = "https://github.com/RookieLim">임재성</a>  
     <br> 🌱 <a href = "https://github.com/mingab91">조민갑</a>
     <br><p><strong>Movie Review Site Backend Developer</strong></p>
-    <br> 🌱 All Developer joined it</a>  
+    🌱 All Developer joined it</a>  
      <h1>3.Technology stacks and packages</h1>
    <h3>🛠Frontend</h3>
     <strong>Technology stacks</strong>
      <ul>
-      <li>HTML,CSS,Javascript ES6</li>
+       <li>HTML,CSS,Javascript ES6</li>
    <h3>🛠Backend</h3>
        <li>JSON</li>
        <li>Python</li>
-      </ul>
-    <h1>4.Movie information and Review sharing site</h1>
+   <h1>4.Movie information and Review sharing site</h1>
     <ul>
       <li>Rendering is being optimized.</li>
       <li>We plan to improve the components through code review to facilitate maintenance.</li>
