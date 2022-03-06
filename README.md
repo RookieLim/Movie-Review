@@ -27,9 +27,7 @@
     <p><strong>Moive Review Site Frontend Developer</strong></p>
     🌱 <a href = "https://github.com/RookieLim">임재성</a>  
     <br> 🌱 <a href = "https://github.com/mingab91">조민갑</a>
-    <br><p><strong>Movie Review Site Backend Developer</strong></p>
-    🌱 All Developer joined it</a>  
-     <h1>3.Technology stacks and packages</h1>
+    <h1>3.Technology stacks and packages</h1>
    <h3>🛠Frontend</h3>
     <strong>Technology stacks</strong>
      <ul>
@@ -37,6 +35,7 @@
      </ul>  
    <h3>🛠Backend</h3>
      <ul>     
+       <li>Pymongo</li>
        <li>JSON</li>
        <li>Python</li>
     </ul>  
