@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/85553325/155828502-42541eb9-5866-4287-b9a8-a79e5f4945eb.png" width="800px" height="400px">
     <h1>1.Movie Review Site</h1>
     <h3> 📌Movie Info and Review sharing site</h3>
-    <p>Project Period : 2021. 08. 01~ 2021. 08. 30<p>
+    <p>Project Period : 2021. 08. 20~ 2021. 09. 05<p>
     <p> <span style="color:orange" >"A Movie Review site based on naver data and user rating"</span>
       <br>Sites that show data based on information shared by movie API<br></p> 
     <h1>2.Movie Review Site</h1>
